@@ -1,0 +1,3 @@
+Deleate key inside StudentTable is same as ctl-r
+Up and Down keys function on the StudentTable when inside the nameTextField
+Alt-a will be used for select all for the nameTextFields(maybe others aswell)
